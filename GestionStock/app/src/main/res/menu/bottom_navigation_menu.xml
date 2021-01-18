@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/clients_image" android:id="@+id/item1" android:title="Clients" />
+    <item android:icon="@drawable/product_image" android:id="@+id/item2" android:title="Produits" />
+    <item android:icon="@drawable/provider_image" android:id="@+id/item3" android:title="Fournisseur" />
+</menu>
